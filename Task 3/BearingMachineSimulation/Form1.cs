@@ -137,6 +137,12 @@ namespace BearingMachineSimulation
                 dataGridView1[dataGridView1.Columns.Count - 2, i].Value = Convert.ToInt32(dc2.Rows[i][0]);
                 dataGridView1[dataGridView1.Columns.Count - 1, i].Value = Convert.ToInt32(dc3.Rows[i][0]);
             }
+
+            curBearing.Text = curBearing.Text + ": " + simulationSystem.CurrentPerformanceMeasures.BearingCost.ToString();
+            curCost.Text = curCost.Text + ": " + simulationSystem.CurrentPerformanceMeasures.TotalCost.ToString();
+            curDelay.Text = curDelay.Text + ": " + simulationSystem.CurrentPerformanceMeasures.DelayCost.ToString();
+            curDowntime.Text = curDowntime.Text + ": " + simulationSystem.CurrentPerformanceMeasures.DowntimeCost.ToString();
+            curRepair.Text = curRepair.Text + ": " + simulationSystem.CurrentPerformanceMeasures.RepairPersonCost.ToString();
         }
         void BuildTable2()
         {
@@ -202,6 +208,11 @@ namespace BearingMachineSimulation
                 for (int j = 0; j < simulationSystem.NumberOfBearings; j++)
                     dataGridView3[j, i].Value = simulationSystem.ProposedSimulationTable[i].Bearings[j].Hours;
             }
+            porBearing.Text = porBearing.Text + ": " + simulationSystem.ProposedPerformanceMeasures.BearingCost.ToString();
+            porCost.Text = porCost.Text + ": " + simulationSystem.ProposedPerformanceMeasures.TotalCost.ToString();
+            porDelay.Text = porDelay.Text + ": " + simulationSystem.ProposedPerformanceMeasures.DelayCost.ToString();
+            porDown.Text = porDown.Text + ": " + simulationSystem.ProposedPerformanceMeasures.DowntimeCost.ToString();
+            porRepair.Text = porRepair.Text + ": " + simulationSystem.ProposedPerformanceMeasures.RepairPersonCost.ToString();
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -219,5 +230,6 @@ namespace BearingMachineSimulation
                 }
             }
         }
+        
     }
 }

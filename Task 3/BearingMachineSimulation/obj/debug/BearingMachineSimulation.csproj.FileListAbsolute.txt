@@ -131,3 +131,17 @@ D:\Workspace\Faculty\4th Year\Sim\Lab 7\Task 3\BearingMachineSimulation\obj\Debu
 D:\Workspace\Faculty\4th Year\Sim\Lab 7\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csproj.CopyComplete
 D:\Workspace\Faculty\4th Year\Sim\Lab 7\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.exe
 D:\Workspace\Faculty\4th Year\Sim\Lab 7\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.pdb
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.exe.config
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.exe
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\bin\Debug\BearingMachineSimulation.pdb
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\bin\Debug\BearingMachineModels.dll
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\bin\Debug\BearingMachineModels.pdb
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\bin\Debug\BearingMachineTesting.pdb
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csprojAssemblyReference.cache
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.Form1.resources
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.Properties.Resources.resources
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csproj.GenerateResource.cache
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csproj.CoreCompileInputs.cache
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.csproj.CopyComplete
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.exe
+D:\Workspace\simulation-modeling\Task 3\BearingMachineSimulation\obj\Debug\BearingMachineSimulation.pdb
